@@ -9,22 +9,23 @@ TagManager:
   - Key1
   - Door1
   - CameraPoint
+  - Wall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
   - 
+  - PickUps
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Ground&Walls
+  - TexturesTerrain
   - 
   - 
   - 

@@ -32,7 +32,5 @@ public class PickUP : MonoBehaviour
            Debug.Log("Open the Doors");
            Destroy(collision.gameObject);
        }
-       
-       // 
    }
 }

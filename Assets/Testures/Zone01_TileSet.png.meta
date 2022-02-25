@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 53405f3ec2366fe40b3765e19d982261
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8722738187126479583
+    second: Zone01_TileSet_0
+  - first:
+      213: -2391918576354488472
+    second: Zone01_TileSet_1
+  - first:
+      213: 7674739895750577819
+    second: Zone01_TileSet_2
+  - first:
+      213: 7466535449182709037
+    second: Zone01_TileSet_3
+  - first:
+      213: 3953070792313140836
+    second: Zone01_TileSet_4
+  - first:
+      213: -6502663935973607269
+    second: Zone01_TileSet_5
+  - first:
+      213: -205108338003713955
+    second: Zone01_TileSet_6
+  - first:
+      213: -5373590997522639198
+    second: Zone01_TileSet_7
+  - first:
+      213: -5909604448911632966
+    second: Zone01_TileSet_8
+  - first:
+      213: 7556688131697277127
+    second: Zone01_TileSet_9
+  - first:
+      213: 5860191209062643113
+    second: Zone01_TileSet_10
+  - first:
+      213: 3894921630958031027
+    second: Zone01_TileSet_11
+  - first:
+      213: 8340764803226836915
+    second: Zone01_TileSet_12
+  - first:
+      213: 6187177127727499546
+    second: Zone01_TileSet_13
+  - first:
+      213: 6586981874295193239
+    second: Zone01_TileSet_14
+  - first:
+      213: -6732437045729459376
+    second: Zone01_TileSet_15
+  - first:
+      213: -9216760741119460708
+    second: Zone01_TileSet_16
+  - first:
+      213: 6311360430884300103
+    second: Zone01_TileSet_17
+  - first:
+      213: -5795118424646506794
+    second: Zone01_TileSet_18
+  - first:
+      213: 4028603649498180554
+    second: Zone01_TileSet_19
+  - first:
+      213: 8242272526143639378
+    second: Zone01_TileSet_20
+  - first:
+      213: -903778408213309816
+    second: Zone01_TileSet_21
+  - first:
+      213: -7573598526436423642
+    second: Zone01_TileSet_22
+  - first:
+      213: 158901102686356724
+    second: Zone01_TileSet_23
+  - first:
+      213: 6749997976760749726
+    second: Zone01_TileSet_24
+  - first:
+      213: 3195487537288574762
+    second: Zone01_TileSet_25
+  - first:
+      213: 6079684162694006088
+    second: Zone01_TileSet_26
+  - first:
+      213: 2695144139300061669
+    second: Zone01_TileSet_27
+  - first:
+      213: 2267273562843338793
+    second: Zone01_TileSet_28
+  - first:
+      213: -7784434458969052053
+    second: Zone01_TileSet_29
+  - first:
+      213: -3401235891338295707
+    second: Zone01_TileSet_30
+  - first:
+      213: 7064512326680399822
+    second: Zone01_TileSet_31
+  - first:
+      213: -9146880694522487453
+    second: Zone01_TileSet_32
+  - first:
+      213: -2668187107587925927
+    second: Zone01_TileSet_33
+  - first:
+      213: -1009244660095432050
+    second: Zone01_TileSet_34
+  - first:
+      213: 2044157767220374999
+    second: Zone01_TileSet_35
+  - first:
+      213: -2778750919291728553
+    second: Zone01_TileSet_36
+  - first:
+      213: 3945012416797058070
+    second: Zone01_TileSet_37
+  - first:
+      213: 6681937073586246124
+    second: Zone01_TileSet_38
+  - first:
+      213: -1566773869078086617
+    second: Zone01_TileSet_39
+  - first:
+      213: -2091542437990507039
+    second: Zone01_TileSet_40
+  - first:
+      213: 455687605204070513
+    second: Zone01_TileSet_41
+  - first:
+      213: 4513435913787873344
+    second: Zone01_TileSet_42
+  - first:
+      213: 5631597866335673035
+    second: Zone01_TileSet_43
+  - first:
+      213: -4322512923084268331
+    second: Zone01_TileSet_44
+  - first:
+      213: -8037848306048653865
+    second: Zone01_TileSet_45
+  - first:
+      213: -3910244725355023109
+    second: Zone01_TileSet_46
+  - first:
+      213: -7240261873713898946
+    second: Zone01_TileSet_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zone01_TileSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda98688a246d0970800000000000000
+      internalID: 8722738187126479583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8bbc4ab23eced0800000000000000
+      internalID: -2391918576354488472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4bbdc547228a60800000000000000
+      internalID: 7674739895750577819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a56f7e667e9760800000000000000
+      internalID: 7466535449182709037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466fbcbf0f02cd630800000000000000
+      internalID: 3953070792313140836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98bc825a95e1c5a0800000000000000
+      internalID: -6502663935973607269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5061d4ad0f472df0800000000000000
+      internalID: -205108338003713955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61d60557b2d65b0800000000000000
+      internalID: -5373590997522639198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5dd8b601edcfda0800000000000000
+      internalID: -5909604448911632966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f93891dfbed860800000000000000
+      internalID: 7556688131697277127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bb042bd4935150800000000000000
+      internalID: 5860191209062643113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b01d31569a8d0630800000000000000
+      internalID: 3894921630958031027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9a63b56950c370800000000000000
+      internalID: 8340764803226836915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a198e9c01d44dd550800000000000000
+      internalID: 6187177127727499546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3d478d19a96b50800000000000000
+      internalID: 6586981874295193239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538d984d249192a0800000000000000
+      internalID: -6732437045729459376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9afecd30fc771080800000000000000
+      internalID: -9216760741119460708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_17
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a0547fd4769750800000000000000
+      internalID: 6311360430884300103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6af932f7a939fa0800000000000000
+      internalID: -5795118424646506794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6e2dbca978e730800000000000000
+      internalID: 4028603649498180554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc0ce613f626270800000000000000
+      internalID: 8242272526143639378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88617ce73522573f0800000000000000
+      internalID: -903778408213309816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c550544c25e690800000000000000
+      internalID: -7573598526436423642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c90406b7843200800000000000000
+      internalID: 158901102686356724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0e67956fccad50800000000000000
+      internalID: 6749997976760749726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f5481cf6a85c20800000000000000
+      internalID: 3195487537288574762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_26
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c1ffc8806f5450800000000000000
+      internalID: 6079684162694006088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c471b053176520800000000000000
+      internalID: 2695144139300061669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_28
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92859e9fa49f67f10800000000000000
+      internalID: 2267273562843338793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_29
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce6df6a1228f390800000000000000
+      internalID: -7784434458969052053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566c8733af16cc0d0800000000000000
+      internalID: -3401235891338295707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf472f18803a0260800000000000000
+      internalID: 7064512326680399822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ddb187870cf0180800000000000000
+      internalID: -9146880694522487453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d1f956f1b8fad0800000000000000
+      internalID: -2668187107587925927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a4d8f24517ef1f0800000000000000
+      internalID: -1009244660095432050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda60ca8ae4e5c10800000000000000
+      internalID: 2044157767220374999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d8358e2c4ef69d0800000000000000
+      internalID: -2778750919291728553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a1b934ef7fb630800000000000000
+      internalID: 3945012416797058070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11f92bd520bbc50800000000000000
+      internalID: 6681937073586246124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_39
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7c3a9773b14ae0800000000000000
+      internalID: -1566773869078086617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eddbeeeb3959f2e0800000000000000
+      internalID: -2091542437990507039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170bcbc667de25600800000000000000
+      internalID: 455687605204070513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04811d5ec02f2ae30800000000000000
+      internalID: 4513435913787873344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca19c40c64772e40800000000000000
+      internalID: 5631597866335673035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd68ae5695304c0800000000000000
+      internalID: -4322512923084268331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ae7f4d83d37090800000000000000
+      internalID: -8037848306048653865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47e50c3250cb9c0800000000000000
+      internalID: -3910244725355023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone01_TileSet_47
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9a78bf2c658b90800000000000000
+      internalID: -7240261873713898946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
