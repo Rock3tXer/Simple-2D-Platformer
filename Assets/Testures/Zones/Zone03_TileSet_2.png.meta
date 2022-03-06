@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 05fac167a7212534ba33136cba0e0838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4234372705575845103
+    second: Zone03_TileSet_2_0
+  - first:
+      213: 6100195417763642756
+    second: Zone03_TileSet_2_1
+  - first:
+      213: 5305730764358878355
+    second: Zone03_TileSet_2_2
+  - first:
+      213: 4254740450804982762
+    second: Zone03_TileSet_2_3
+  - first:
+      213: 7260356846603027452
+    second: Zone03_TileSet_2_4
+  - first:
+      213: 1685760053968340753
+    second: Zone03_TileSet_2_5
+  - first:
+      213: -7463678968234204761
+    second: Zone03_TileSet_2_6
+  - first:
+      213: 2861417049678663062
+    second: Zone03_TileSet_2_7
+  - first:
+      213: -3158171026979486622
+    second: Zone03_TileSet_2_8
+  - first:
+      213: -2497020321309280237
+    second: Zone03_TileSet_2_9
+  - first:
+      213: -1981901110426978823
+    second: Zone03_TileSet_2_10
+  - first:
+      213: -5368892894339350661
+    second: Zone03_TileSet_2_11
+  - first:
+      213: -8960909724900172229
+    second: Zone03_TileSet_2_12
+  - first:
+      213: -4554952903682093343
+    second: Zone03_TileSet_2_13
+  - first:
+      213: -2153138291925173816
+    second: Zone03_TileSet_2_14
+  - first:
+      213: -5314606077530210250
+    second: Zone03_TileSet_2_15
+  - first:
+      213: -3636681772297124027
+    second: Zone03_TileSet_2_16
+  - first:
+      213: -2375592426916818839
+    second: Zone03_TileSet_2_17
+  - first:
+      213: 4349458973748268920
+    second: Zone03_TileSet_2_18
+  - first:
+      213: -7168320972222368878
+    second: Zone03_TileSet_2_19
+  - first:
+      213: -5788108946329053291
+    second: Zone03_TileSet_2_20
+  - first:
+      213: 8484419461014887226
+    second: Zone03_TileSet_2_21
+  - first:
+      213: -4569176301506076198
+    second: Zone03_TileSet_2_22
+  - first:
+      213: -2125949881286416519
+    second: Zone03_TileSet_2_23
+  - first:
+      213: 5574148893451373246
+    second: Zone03_TileSet_2_24
+  - first:
+      213: -412627078334711467
+    second: Zone03_TileSet_2_25
+  - first:
+      213: -6498963139688887557
+    second: Zone03_TileSet_2_26
+  - first:
+      213: 1710346762544223257
+    second: Zone03_TileSet_2_27
+  - first:
+      213: -8193393423713346490
+    second: Zone03_TileSet_2_28
+  - first:
+      213: -1456225235680886605
+    second: Zone03_TileSet_2_29
+  - first:
+      213: 6629722518792848202
+    second: Zone03_TileSet_2_30
+  - first:
+      213: 4882159703895110199
+    second: Zone03_TileSet_2_31
+  - first:
+      213: -8294746676742920182
+    second: Zone03_TileSet_2_32
+  - first:
+      213: 5305685986149480288
+    second: Zone03_TileSet_2_33
+  - first:
+      213: 7099740975966269311
+    second: Zone03_TileSet_2_34
+  - first:
+      213: 3374835061116965996
+    second: Zone03_TileSet_2_35
+  - first:
+      213: -8620882811701329095
+    second: Zone03_TileSet_2_36
+  - first:
+      213: -2425977552889544933
+    second: Zone03_TileSet_2_37
+  - first:
+      213: -7476147719888140775
+    second: Zone03_TileSet_2_38
+  - first:
+      213: -4680398748877203189
+    second: Zone03_TileSet_2_39
+  - first:
+      213: 8211777207232659027
+    second: Zone03_TileSet_2_40
+  - first:
+      213: -6378965139643471450
+    second: Zone03_TileSet_2_41
+  - first:
+      213: -8402572949954794466
+    second: Zone03_TileSet_2_42
+  - first:
+      213: 797319080625395875
+    second: Zone03_TileSet_2_43
+  - first:
+      213: 5638392513558244738
+    second: Zone03_TileSet_2_44
+  - first:
+      213: 1537852269046390575
+    second: Zone03_TileSet_2_45
+  - first:
+      213: -457088562157803071
+    second: Zone03_TileSet_2_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ca8d757c7c35c0800000000000000
+      internalID: -4234372705575845103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7448896f38a450800000000000000
+      internalID: 6100195417763642756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394097be40eb1a940800000000000000
+      internalID: 5305730764358878355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae367bdb5efdb0b30800000000000000
+      internalID: 4254740450804982762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf34950c518f1c460800000000000000
+      internalID: 7260356846603027452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117835966d5056710800000000000000
+      internalID: 1685760053968340753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a8dcc58fab6890800000000000000
+      internalID: -7463678968234204761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc75075abc5b720800000000000000
+      internalID: 2861417049678663062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26405f40f2ceb24d0800000000000000
+      internalID: -3158171026979486622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 891
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bd6f5f3dc85dd0800000000000000
+      internalID: -2497020321309280237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53c0dc07fde74e0800000000000000
+      internalID: -1981901110426978823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb8c3bb5cdd75b0800000000000000
+      internalID: -5368892894339350661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5bf6051474a380800000000000000
+      internalID: -8960909724900172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee056f977e89c0c0800000000000000
+      internalID: -4554952903682093343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9328d91248e12e0800000000000000
+      internalID: -2153138291925173816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300ea33ee9be36b0800000000000000
+      internalID: -5314606077530210250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54787113239e78dc0800000000000000
+      internalID: -3636681772297124027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_17
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d38e2643380fd0800000000000000
+      internalID: -2375592426916818839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f866764e16c5c30800000000000000
+      internalID: 4349458973748268920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 792
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f3be1e02058c90800000000000000
+      internalID: -7168320972222368878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597dbcc74918cafa0800000000000000
+      internalID: -5788108946329053291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b14332c86beb570800000000000000
+      internalID: 8484419461014887226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e890cc560790c0800000000000000
+      internalID: -4569176301506076198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a3a3c8db1f72e0800000000000000
+      internalID: -2125949881286416519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4e4fa2ea5b5d40800000000000000
+      internalID: 5574148893451373246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 693
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f623cbdd064af0800000000000000
+      internalID: -412627078334711467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa8c7a157b0fc5a0800000000000000
+      internalID: -6498963139688887557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141038915f5cb710800000000000000
+      internalID: 1710346762544223257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5b8277183b4e80800000000000000
+      internalID: -8193393423713346490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b008421dd27acbe0800000000000000
+      internalID: -1456225235680886605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_30
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a434e0c4181810c50800000000000000
+      internalID: 6629722518792848202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f467426ae0c340800000000000000
+      internalID: 4882159703895110199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e2ee48d323ec80800000000000000
+      internalID: -8294746676742920182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_33
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067353e2b4591a940800000000000000
+      internalID: 5305685986149480288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_34
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 594
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f21c53dc8578260800000000000000
+      internalID: 7099740975966269311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6419618b92d5de20800000000000000
+      internalID: 3374835061116965996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933854612c87c5880800000000000000
+      internalID: -8620882811701329095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f72fed442355ed0800000000000000
+      internalID: -2425977552889544933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91688b352436f3890800000000000000
+      internalID: -7476147719888140775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 495
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ddfdb222eb0fb0800000000000000
+      internalID: -4680398748877203189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e70c3bcd716f170800000000000000
+      internalID: 8211777207232659027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a963f0b00d5977a0800000000000000
+      internalID: -6378965139643471450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c63a6bb60146b80800000000000000
+      internalID: -8402572949954794466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8515dba75a01b00800000000000000
+      internalID: 797319080625395875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6cda1e189f3e40800000000000000
+      internalID: 5638392513558244738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd985ad7c875510800000000000000
+      internalID: 1537852269046390575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zone03_TileSet_2_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 396
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a0bddf5818a9f0800000000000000
+      internalID: -457088562157803071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
