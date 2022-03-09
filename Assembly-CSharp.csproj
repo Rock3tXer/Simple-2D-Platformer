@@ -47,8 +47,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\ScoreInteract.cs" />
+     <Compile Include="Assets\Keydoor.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
-     <Compile Include="Assets\PickUP.cs" />
+     <Compile Include="Assets\LevelReset.cs" />
+     <Compile Include="Assets\Test1.cs" />
      <Compile Include="Assets\CharackterController.cs" />
  <Reference Include="UnityEngine">
  <HintPath>F:/Unity/Editor/2020.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
