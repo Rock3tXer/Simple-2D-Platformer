@@ -116408,6 +116408,7 @@ GameObject:
   - component: {fileID: 863564153}
   - component: {fileID: 863564157}
   - component: {fileID: 863564154}
+  - component: {fileID: 863564158}
   m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
@@ -116449,7 +116450,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.031140476, y: 0.10033342}
+  m_Offset: {x: -0.030753836, y: 0.11550522}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -116460,7 +116461,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.8612711, y: 1.0383649}
+  m_Size: {x: 0.7224926, y: 0.9516697}
   m_EdgeRadius: 0
 --- !u!212 &863564151
 SpriteRenderer:
@@ -116542,6 +116543,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 863564155}
+  animator: {fileID: 863564158}
 --- !u!114 &863564154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116579,7 +116581,19 @@ MonoBehaviour:
   m_CrouchDisableCollider: {fileID: 0}
   OnLandEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 863564153}
+        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
+        m_MethodName: OnLanding
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnCrouchEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -116596,9 +116610,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.4221939}
+  m_Offset: {x: -0.029667098, y: -0.36}
   serializedVersion: 2
-  m_Radius: 0.3048982
+  m_Radius: 0.36152992
 --- !u!114 &863564157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116612,6 +116626,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destroyTime: 0
+--- !u!95 &863564158
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 863564148}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1f86e8b9952ef97468256b17ac9dc6b3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &867042578
 GameObject:
   m_ObjectHideFlags: 0
@@ -120934,7 +120967,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1204554561}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.074, y: -0.765, z: 0}
+  m_LocalPosition: {x: -0.074, y: -0.752, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 863564152}
@@ -124892,7 +124925,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1527949540}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.605, z: 0}
+  m_LocalPosition: {x: 0, y: 0.596, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 863564152}
