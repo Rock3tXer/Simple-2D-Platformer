@@ -2,8 +2,7 @@
 Final school project
 TODO:
 [] Score Counter | 
-[] Main Menu | 
-[] Charact. anim | 
+[] Main Menu |  
 [] Finish UI | 
 [] Pause/restart UI | 
 [] On spike death/restart | 
