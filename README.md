@@ -1,8 +1,8 @@
 # UnityGameV01
 ## Final school project
 #### TODO:
-- [ ] Score Counter  
-- [ ] Main Menu   
-- [ ] Finish UI 
+- [x] Score Counter  
+- [x] Main Menu   
+- [x] Finish UI 
 - [ ] Pause/restart UI 
-- [ ] On spike death/restart 
+- [x] On spike death/restart 
