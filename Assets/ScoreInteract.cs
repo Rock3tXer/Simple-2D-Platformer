@@ -24,11 +24,18 @@ public class ScoreInteract : MonoBehaviour
             scoreText.text = "Score: " + score; 
         } 
     }
-    
-    //Restart if taken spike
+
+
+    //Collision interactions
     void OnCollisionEnter2D (Collision2D other)
     {
-     if(other.gameObject.tag == "Spikes")
+     //Restart if player touch spike
+     if(other.gameObject.tag == "Spikes"){
           SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+     }
+     //Show ending if player completed game
+     if(other.gameObject.tag == "Winning"){
+          SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+     }
     }
 }

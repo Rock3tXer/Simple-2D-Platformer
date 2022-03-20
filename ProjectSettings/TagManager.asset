@@ -11,6 +11,7 @@ TagManager:
   - CameraPoint
   - Wall
   - Spikes
+  - Winning
   layers:
   - Default
   - TransparentFX
@@ -22,8 +23,8 @@ TagManager:
   - 
   - PickUps
   - 
-  - 
-  - 
+  - Winners
+  - Title
   - Spikes
   - Ground&Walls
   - TexturesTerrain
@@ -45,6 +46,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1373022511
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

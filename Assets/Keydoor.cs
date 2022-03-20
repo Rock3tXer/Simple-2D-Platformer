@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Keydoor : MonoBehaviour
 {
-    int Key1 = 0;
+    [SerializeField] int Key1 = 0;
     public Text keyText;
     [SerializeField] float destroyTime = 0f;
 
