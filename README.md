@@ -16,6 +16,6 @@ There are also coins which server no actual gameplay meaning. They are just ther
 
 #### Controls
 To move your character use these keys:
--To move left use **a** or **left_arrow**
--To move right use **d** or **right_arrow**
--To jump use **space** 
+- To move left use **a** or **left_arrow**
+- To move right use **d** or **right_arrow**
+- To jump use **space** 
