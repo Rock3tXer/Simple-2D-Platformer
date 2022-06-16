@@ -1,3 +1,4 @@
+![Game_Title](https://user-images.githubusercontent.com/26581618/174158001-d6514b37-a8a8-43ba-a181-6e3531c0ff30.png)
 # Simple 2D platformer
 ## Made with UNITY
 This game was made as my final exam project for school.
