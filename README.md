@@ -12,8 +12,8 @@ This game contains only 1 level that is made up from 3 zones:
 
 #### Goal
 Goal of this game is to get through the last door in Zone 3 while avoiding spikes that are scattered around. 
-There is a key located in every zone which is needed to proceed to next zone.
-There are also coins which server no actual gameplay meaning. They are just there.
+There is a key located in every zone which is needed to proceed to the next zone.
+There are also coins which serve no actual gameplay meaning. They are just there.
 
 #### Controls
 To move your character use these keys:
